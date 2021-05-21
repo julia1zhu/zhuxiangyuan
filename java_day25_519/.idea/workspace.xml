@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca853ffa-7b8c-4773-80f2-64fd40cae1c7" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/../java_day2223_51516/java_day2223_51516.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_day24_517/Test/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_day25_519.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/debug_/Debug01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/debug_/Debug02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/debug_/Debug03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/debug_/Debug04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/debug_/DebugExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/object_/Equals01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/object_/EqualsExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/object_/EqualsExercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/object_/EqualsExercise03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/object_/Finalize_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/object_/HashCode_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/object_/ToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/poly_/polyarr_/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/poly_/polyarr_/PolyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/poly_/polyarr_/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/poly_/polyarr_/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/poly_/polyparameter_/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/poly_/polyparameter_/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/poly_/polyparameter_/PolyParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/poly_/polyparameter_/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/smallChangeOOP/SmallChangeSysApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/smallChangeOOP/SmallChangeSysOOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/smallchange/SmallChangeSys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day1617_50607/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day1617_50607/MethodParameter02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day1617_50607/MethodRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day1617_50607/MethodRecursionExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_day1617_50607/MethodRecursionExercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day1617_50607/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day1617_50607/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java_day1617_50607/Recursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day1617_50607/T.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day21_514/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_day21_514/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day21_514/src/com/Use/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_day21_514/src/com/Use/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day21_514/src/com/pkg/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_day21_514/src/com/pkg/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day2223_51516/src/com/encapsulation/Encapsulation01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_day2223_51516/src/com/encapsulation/Encapsulation01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day2223_51516/src/com/extend_/extendsdateail/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_day2223_51516/src/com/extend_/extendsdateail/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day2223_51516/src/com/extend_/extendsdateail/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_day2223_51516/src/com/extend_/extendsdateail/Sub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day2223_51516/src/com/super_/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_day2223_51516/src/com/super_/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day24_517/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_day24_517/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day24_517/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_day24_517/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day24_517/out/production/java_day24_517/com/poly_/poly_datail/PolyDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java_day24_517/out/production/java_day24_517/com/poly_/poly_datail/PolyDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day24_517/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_day24_517/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day24_517/src/com/poly_/poly_datail/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_day24_517/src/com/poly_/poly_datail/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day24_517/src/com/poly_/poly_datail/PolyDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_day24_517/src/com/poly_/poly_datail/PolyDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_day24_517/src/com/poly_/poly_object/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_day24_517/src/com/poly_/poly_object/Animal.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-415642512">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="8021" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="8021" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/smallchange/SmallChangeSys.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/smallChangeOOP/SmallChangeSysOOP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#859#860#0" expanded="true" />
+                <element signature="e#902#903#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/smallChangeOOP/SmallChangeSysApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/poly_polyarr_/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/poly_polyarr_/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/poly_polyarr_/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/com/poly_polyarr_/PolyArray.java" />
+        <option value="$PROJECT_DIR$/src/com/poly_/polyarr_/PolyArray.java" />
+        <option value="$PROJECT_DIR$/src/com/poly_/polyarr_/polyarr_/PolyArray.java" />
+        <option value="$PROJECT_DIR$/src/com/poly_/polyarr_/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/com/poly_/polyparameter_/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/poly_/polyparameter_/worker.java" />
+        <option value="$PROJECT_DIR$/src/com/poly_/polyparameter_/Worker.java" />
+        <option value="$PROJECT_DIR$/src/com/poly_/polyparameter_/Manager.java" />
+        <option value="$PROJECT_DIR$/src/com/poly_/polyparameter_/PolyParameter.java" />
+        <option value="$PROJECT_DIR$/src/com/object_/Equals01.java" />
+        <option value="$PROJECT_DIR$/src/com/object_/EqualsExercise02.java" />
+        <option value="$PROJECT_DIR$/src/com/object_/EqualsExercise01.java" />
+        <option value="$PROJECT_DIR$/src/com/object_/EqualsExercise03.java" />
+        <option value="$PROJECT_DIR$/src/com/object_/HashCode_.java" />
+        <option value="$PROJECT_DIR$/src/com/object_/ToString.java" />
+        <option value="$PROJECT_DIR$/src/com/object_/Finalize_.java" />
+        <option value="$PROJECT_DIR$/src/com/debug_/Debug01.java" />
+        <option value="$PROJECT_DIR$/src/com/debug_/Debug02.java" />
+        <option value="$PROJECT_DIR$/src/com/debug_/Debug03.java" />
+        <option value="$PROJECT_DIR$/src/com/debug_/Debug04.java" />
+        <option value="$PROJECT_DIR$/src/com/debug_/DebugExercise01.java" />
+        <option value="$PROJECT_DIR$/src/com/smallchange/SmallChangeSys.java" />
+        <option value="$PROJECT_DIR$/src/com/smallchange/SmallChangeSysApp.java" />
+        <option value="$PROJECT_DIR$/src/com/smallchange/SmallChangeSysOOP.java" />
+        <option value="$PROJECT_DIR$/src/smallChangeOOP/SmallChangeSysOOP.java" />
+        <option value="$PROJECT_DIR$/src/com/smallChangeOOP/SmallChangeSysOOP.java" />
+        <option value="$PROJECT_DIR$/src/com/smallChangeOOP/SmallChangeSysApp.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="312" />
+    <option name="y" value="55" />
+    <option name="width" value="1700" />
+    <option name="height" value="929" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="添加" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java_day25_519" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_day25_519" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_day25_519" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_day25_519" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_day25_519" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_day25_519" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1621606163235" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="debugger.stepping" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SmallChangeSysApp">
+    <configuration name="Debug03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.debug_.Debug03" />
+      <module name="java_day25_519" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.debug_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Debug04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.debug_.Debug04" />
+      <module name="java_day25_519" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.debug_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DebugExercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.debug_.DebugExercise01" />
+      <module name="java_day25_519" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.debug_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallChangeSys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smallchange.SmallChangeSys" />
+      <module name="java_day25_519" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smallChangeOOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallChangeSysApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smallChangeOOP.SmallChangeSysApp" />
+      <module name="java_day25_519" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smallChangeOOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Debug03" />
+      <item itemvalue="Application.Debug04" />
+      <item itemvalue="Application.DebugExercise01" />
+      <item itemvalue="Application.SmallChangeSys" />
+      <item itemvalue="Application.SmallChangeSysApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SmallChangeSysApp" />
+        <item itemvalue="Application.SmallChangeSys" />
+        <item itemvalue="Application.DebugExercise01" />
+        <item itemvalue="Application.Debug04" />
+        <item itemvalue="Application.Debug03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca853ffa-7b8c-4773-80f2-64fd40cae1c7" name="默认" comment="" />
+      <created>1621409302478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621409302478</updated>
+      <workItem from="1621409316995" duration="5739000" />
+      <workItem from="1621469738420" duration="13630000" />
+      <workItem from="1621561881625" duration="8250000" />
+      <workItem from="1621604296388" duration="1880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29499000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="250" y="44" width="1360" height="743" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16359447" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="设计器" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15245901" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="调试" order="11" weight="0.34925866" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24956064" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24956064" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="调色板" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32952547" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/poly_/polyarr_/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/poly_/polyarr_/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/poly_/polyarr_/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/object_.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/poly_/polyparameter_/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/poly_/polyarr_/PolyArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/poly_/polyparameter_/PolyParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/poly_/polyparameter_/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/poly_/polyparameter_/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0 _152/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="980" column="38" selection-start-line="980" selection-start-column="38" selection-end-line="980" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/object_/EqualsExercise02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/object_/Finalize_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="63" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/object_/ToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/object_/HashCode_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/object_/EqualsExercise03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="68" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/object_/EqualsExercise01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/object_/Equals01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0 _152/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="144" selection-start-line="144" selection-end-line="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0 _152/src.zip!/java/util/DualPivotQuicksort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/debug_/Debug01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/debug_/Debug02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/debug_/Debug03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="7" selection-start-line="7" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/debug_/Debug04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0 _152/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0 _152/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0 _152/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="2993" selection-start-line="2993" selection-end-line="2993" />
+          <folding>
+            <element signature="e#117955#117956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0 _152/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="821" selection-start-line="821" selection-end-line="821" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/debug_/DebugExercise01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smallChangeOOP/SmallChangeSysApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smallchange/SmallChangeSys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smallChangeOOP/SmallChangeSysOOP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java_day25_519</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
