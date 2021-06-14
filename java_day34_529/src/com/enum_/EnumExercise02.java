@@ -17,6 +17,10 @@ public class EnumExercise02 {
         for (Week values:week) {
             System.out.println(values);
         }
+
+        for (Week values:week) {
+            System.out.println(values.name());
+        }
     }
 }
 
