@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FoodOrderSys.iml" filepath="$PROJECT_DIR$/FoodOrderSys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_day29_523/java_day29_523.iml" filepath="$PROJECT_DIR$/../java_day29_523/java_day29_523.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_day43_616/java_day43_616.iml" filepath="$PROJECT_DIR$/../java_day43_616/java_day43_616.iml" />
+    </modules>
+  </component>
+</project>
