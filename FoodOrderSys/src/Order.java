@@ -1,11 +1,13 @@
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.LinkedList;
+import java.util.List;
 
 /**
  * @author 朱香原
  */
 @SuppressWarnings("all")
-public class OrderInfo {
+public class Order {
     private int id; //订单编号
     private int queueId; //排队序号
     private String startTime; //订单生成时间
@@ -17,10 +19,11 @@ public class OrderInfo {
     private Object memberId = 0; //会员编号
     SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");//设置日期格式
 
+    List<FoodInfo> foodInfoList = new LinkedList<>();
     FoodInfo fi; //内部类
 
     //赠品详情加入
-    public OrderInfo(int queueId,FoodInfo foodInfo){
+    public Order(int queueId,FoodInfo foodInfo){
         this.queueId = queueId;
         fi = foodInfo;
         startTime = df.format(new Date());;// new Date()为获取当前系统时间，也可使用当前时间戳
@@ -31,7 +34,7 @@ public class OrderInfo {
     }
 
     //顾客如果是会员点单之后采用这个构造器
-    public OrderInfo(int id, int queueId,Object memberId,FoodInfo foodInfo) {
+    public Order(int id, int queueId,Object memberId,FoodInfo foodInfo) {
         this.id = id;
         this.queueId = queueId;
         this.memberId = memberId;
@@ -46,7 +49,7 @@ public class OrderInfo {
     }
 
     // 顾客如果不是会员点单采用这个构造器
-    public OrderInfo(int id, int queueId,FoodInfo foodInfo) {
+    public Order(int id, int queueId,FoodInfo foodInfo) {
         this.id = id;
         this.queueId = queueId;
         fi = foodInfo ;
@@ -153,6 +156,7 @@ public class OrderInfo {
             this.scale = scale;
             this.copies = copies;
 
+
         }
 
         public String getFoodName() {
@@ -179,6 +183,11 @@ public class OrderInfo {
             this.copies = copies;
         }
 
+    }
+
+    public void addFoodInfo(int index, int needNumber) {
+        FoodInfo fi = new FoodInfo(index, needNumber);
+        foodInfoList.add(fi);
     }
 
 }
