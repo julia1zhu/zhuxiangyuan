@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+    <!--数据源名称代表连接池 -->
+    <named-config name = "hsp_edu">
+        <!--驱动类 -->
+        <property name="driverClass">com.mysql.cj.jdbc.Driver</property>
+        <!-- url -->
+        <property name="jdbcUrl">
+            jdbc:mysql://localhost:3306/db02?useSSL=false&amp;serverTimezone=UTC
+        </property>
+        <!-- 用户名 -->
+        <property name="user">root</property>
+        <!--密码 -->
+        <property name="password">pig621julia</property>
+
+    <!-- 连接池参数 -->
+        <!--初始化申请的连接数量-->
+        <property name="initialPoolSize">10</property>
+        <!--最大的连接数量-->
+        <property name="maxPoolSize">100</property>
+        <!--最小的连接数量-->
+        <property name="minPoolSize">5</property>
+        <!--每次增长的连接数-->
+        <property name="acquireIncrement">5</property>
+        <!--每个连接对象可连接的最多的命令对象数-->
+        <property name="maxStatementPerConnection">2</property>
+    </named-config>
+</c3p0-config>
